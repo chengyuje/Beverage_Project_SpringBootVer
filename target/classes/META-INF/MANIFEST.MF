@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: mac_home
+Build-Jdk: 17.0.6
+Implementation-Title: e-commerce_HW
+Implementation-Version: 0.0.1
+Implementation-Vendor-Id: com.ecommerce
+Implementation-URL: https://spring.io/projects/spring-boot/e-commerce_HW
+Created-By: Maven Integration for Eclipse
+
